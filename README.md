@@ -70,7 +70,8 @@ The data was sourced from the **CLALIT Health Services** database in Israel, cov
 📁 data/                  # Raw or preprocessed datasets (de-identified)
 📁 notebooks/             # Jupyter Notebooks for each analysis step
 📁 scripts/               # Core Python scripts (preprocessing, modeling, clustering)
-📄 Extracts and Reports.pdf   # Full research extracts paper (this PDF)
+📁 Extracts and Reports/  # Full research extracts paper (this PDF)
+📁 Tables and Charts/     # Results from Analysis
 📄 README.md              # Project overview
 ```
 
